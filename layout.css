@@ -1,0 +1,138 @@
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	
+	.header-container {background-position: center 150px !important;background-size: auto 397px !important;padding: 18px 0;}
+	.tagline {font-size: 30px;line-height: 30px;}
+	.logo {padding: 22px 0 0;}
+	.address {padding: 10px 0 0;}
+	.address p {font-size: 30px;line-height: 34px;}
+	.main-menu {margin: 75px 0 0;}
+	.main-menu ul li a {font-size: 18px;}
+	.main-menu ul li ul li a {font-size: 16px;}
+	.social-media ul li {padding: 0 30px 0 0;}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+	hr {margin: 5px 0 20px;}
+	.header-container {background-position: center 178px !important;background-size: auto 299px !important;padding: 18px 0;}
+	.tagline {font-size: 30px;line-height: 30px;}
+	.logo {padding: 20px 0 0;}
+	.logo a img {max-width: 100%;}
+	.address {padding: 20px 0 0;}
+	.address p {font-size: 30px;line-height: 28px;}
+	.main-menu ul li a {font-size: 18px;}
+	.main-menu ul li ul li a {font-size: 16px;line-height: 20px;}
+	.recommendation h3 {line-height: 21px;padding: 7px 0 12px 25px;}
+	.button-section a img {width: 310px;height: auto;}
+	.details-section img {height: auto;} 
+	.details-section .inline-image-parent img {max-width: 47%;}
+	.wp-image-258 {display: none;}
+	.contact-desc {padding: 52px 0;}
+	.tagline-desc {padding: 0 0 45px;}
+	.social-media {padding: 25px 0;}
+	.social-media ul li:first-child {padding: 14px 20px 18px 0;font-size: 30px;}
+	.social-media ul li {padding: 0 10px 0 0;}
+	.social-media ul li a img {width: 80px;height: auto;}
+	.member-list {padding: 23px 0 30px;}
+	.member-list ul li {padding: 0 30px 0 0;}
+	.member-list ul li:first-child {font-size: 30px;padding: 50px 20px 14px 0;}
+	.member-list ul li a {text-align: center;}
+	.member-list ul li a img {width: 150px;height: auto;}
+	
+}
+
+@media only screen and (max-width: 767px) {	
+	
+	h1 {font-size: 28px;line-height: 30px;}
+	hr {margin: 5px 0 20px;}
+	.header-container {padding: 16px 0 5px;}
+	.tagline {font-size: 20px;line-height: 26px;}
+	.logo {padding: 8px 0 0;}
+	.logo a img {max-width: 290px;}
+	.address {padding: 20px 0 0;}
+	.address p {font-size: 20px;line-height: 26px;}
+	.main-menu {width: 110%;margin: 10px 0 0 -5%;padding: 0;position: relative;z-index: 10;}
+	.main-menu ul {border: 0;}
+	.main-menu ul li a {font-size: 18px;}
+	.main-menu ul li:hover a,
+	.main-menu ul li:hover ul li a,
+	.main-menu ul li:hover ul li:hover a {color: #ffffff;text-decoration: none;}
+	.main-menu ul li ul li {background: #a80316;border-top: none;margin: 0;}
+	.main-menu ul li ul li a {font-size: 18px;line-height: 20px;}
+	.mean-container .mean-bar {height: 42px;padding: 0;}
+	.mean-container .mean-bar:before {font-size: 16px;content: "MENU";position: absolute;left: 15px;top: 13px;}
+	.mean-container .mean-nav {margin-top: 42px;margin-bottom: 15px;background: #a80316;border-radius: 0 0 3px 3px;}
+	.mean-container a.meanmenu-reveal {width: 22px;height: 22px;line-height: 22px;top: 0;right: 0 !important;background: none;padding: 11px 15px 11px 13px;border-radius: 3px;color:#000000;transition: none;}
+	.mean-container a.meanmenu-reveal span {background: #000000;}
+	.mean-container .mean-nav ul {position: inherit;}
+	.mean-container .mean-nav ul li {padding: 0;}
+	.mean-container .mean-nav ul li a.mean-expand {height: 26px;padding: 16px 12px 2px !important;}
+	.mean-container .mean-nav ul li ul {top: 0;display: block;}
+	.mean-container .mean-nav ul li li a {padding: 16px 10% 12px;}
+	.price-listing {width: 100%;}
+	.price-listing h2 {font-size: 32px;padding: 0 15px 3px;}
+	.price-listing h3 {padding: 0 15px;}
+	.price-listing ul {padding: 0 15px;}
+	.price-listing ul li strong {padding: 5px 0 0;}
+	.recommendation {width: 100%;padding: 5px 0 0;}
+	.recommendation h3 {line-height: 22px;padding: 15px;}
+	.recommendation-box {padding: 0 0 2px 15px;}
+	.button-section {padding: 10px 0;}
+	.button-section a {margin: 0 0 15px;display: inline-block;}
+	.button-section a img {width: auto;height: auto;}
+	.details-section {padding: 0;}
+	.details-section .alignnone {margin: 0 0 5px;}
+	.details-section a {font-size: 20px;}
+	.details-section img {height: auto;}
+	.details-section ul li a {font-size: 16px;}
+	.image-list .alignnone {width: 46%;margin: 0 0 15px 10px;}
+	.image-list .alignnone:first-child {width: 46%;margin: 0 10px 15px 0;}
+	.home .details-section p {padding: 0 0 15px;}
+	.alignleft {margin: 0 20px 20px 0;}
+	.alignright {margin: 0 20px 20px 0;}
+	.hide {display: none;}
+	.details-section .inline-image-parent {text-align: center;}
+	.details-section .inline-image-parent img {float: none;}
+	.wp-image-258 {margin: 20px auto 0 !important;float: none;display: block;}
+	.wp-image-261 {margin: 0 auto 20px !important;float: none;display: block;}
+	.details-section table td {font-size: 13px;}
+	.details-section a {font-size: 18px;}
+	.details-section table.space-tab td, .details-section table.space-tab th {padding: 0 0 15px;}
+	.contact-desc {padding: 35px 0 30px;}
+	.contact-desc p {line-height: 17px;}
+	.author-img {width: 115px;}
+	.author-img img {margin: 0 0 10px;}
+	.tagline-desc {padding: 0 0 20px;}
+	.tagline-desc img {margin: 0;}
+	.tagline-desc strong {font-size: 42px;text-align: center;}
+	.social-media {padding: 25px 0;text-align: center;}
+	.social-media ul li:first-child {width: 100%;padding: 0 0 12px;font-size: 30px;line-height: 30px;text-align: center;}
+	.social-media ul li {padding: 0 5px 0 0;display: inline-block;float: none;}
+	.social-media ul li a img {width: 50px;height: auto;}
+	.member-list {padding: 0 0 30px;text-align: center;}
+	.member-list ul li:first-child {width: 100%;padding: 0 0 10px;font-size: 30px;line-height: 30px;text-align: center;}
+	.member-list ul li {width: 50%;padding: 0;}
+	.member-list ul li a {width: auto;float: none;display: inline-block;}
+	.member-list ul li a img {width: 80px;height: auto;}
+	.member-list ul li p {width: 100%;float: left;font-size: 14px;}
+	.page-id-908 .table-scroll {width: 500px;}
+	.common-alignment {text-align: center;}
+	.common-alignment img.alignleft {float: none;margin: 0 0 20px 0;}
+	.common-alignment img.alignright {float: none;margin: 0;}
+	.table-scroll {width: 1000px;float: left;}
+	.table-scroll table {float: left;width: 100%;}
+	.scroll-outer {overflow-x: scroll;margin-bottom: 30px;}
+	
+}
+
+@media only screen and (max-width: 479px) {
+	
+	.details-section .image-list .alignnone {width: auto;margin: 0 0 15px;}
+	.details-section .image-list .alignnone:first-child {width: auto;margin: 0 0 15px;}
+	.alignleft {max-width: 62%;margin: 0 15px 20px 0;}
+	.alignright {max-width: 62%;margin: 0 0 20px 15px;}
+	.inline-image-parent .alignleft,
+	.inline-image-parent .alignright {max-width: 100%;margin: 0 0 20px;}
+		
+}
